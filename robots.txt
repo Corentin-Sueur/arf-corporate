@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://event.akademiskarodd.se/sitemap.xml
+Sitemap: https://event.akademiskarodd.se/club-sitemap.xml
